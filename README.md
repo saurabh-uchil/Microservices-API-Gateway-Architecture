@@ -16,3 +16,6 @@ The architecture consists of multiple services (e.g., User Service, Product Serv
 
    Sample Request:
 http://localhost:3000/users
+
+# Diagram
+![Image](https://github.com/user-attachments/assets/e4355d29-8f33-4b94-80b2-03dbbe2114c3)
